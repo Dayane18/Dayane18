@@ -33,6 +33,7 @@
 <p align="height"><a href="https://twitter.com/Dayxsm18"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/dayane-herculano-pereira18/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://www.instagram.com/d4yxz_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+ <a href="https://www.gmail.com/pdayane2734@gmail.com/"><img src="https://img.shields.io/badge/gmail-ff3333.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
 </p>
 
 
